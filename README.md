@@ -152,6 +152,8 @@ Port 5000 busy	                  Change port in server.js to 5001
 Students not responding	          Verify backend is running (node server.js)
 PDF not loading	                  Try smaller PDF or convert to TXT
 
+⚠️ Note: If the stop teaching button raises a pop up it means you did not add your api key in .env file
+
 🛠️ Built With
 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
